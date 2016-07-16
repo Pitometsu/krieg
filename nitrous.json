@@ -1,0 +1,9 @@
+{
+  "template": "rails",
+  "ports": [8000],
+  "name": "krieg",
+  "logo": "https://raw.github.com/Pitometsu/krieg/master/art.png",
+  "scripts": {
+    "Start Rails server": "cd ~/code/krieg && stack exec krieg -- -p 8000"
+  }
+}
